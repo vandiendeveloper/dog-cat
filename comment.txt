@@ -1,0 +1,4 @@
+git revert <commit>: trả lại trạng thái trước đó
+Github: 
+add remote origin https://github.com/vandiendeveloper/dog-cat.git
+git push -u origin master(Neu chua co code truoc) con co roi thi git push
